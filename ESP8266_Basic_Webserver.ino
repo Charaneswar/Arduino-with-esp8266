@@ -1,8 +1,3 @@
-// Basic Arduino & ESP8266 webserver
-//
-// uses AltSoftSerial download from https://www.pjrc.com/teensy/td_libs_AltSoftSerial.html
-// this can be replaced with the normal software serial
-// 
 
  
  
